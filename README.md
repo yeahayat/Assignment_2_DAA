@@ -1,4 +1,3 @@
-```markdown
 # DAA Assignment 2 - Kadane's Algorithm
 
 ## Performance Results
