@@ -15,7 +15,7 @@
 
 | Algorithm | Best Case | Worst Case | Average Case | Empirical Result |
 |-----------|-----------|------------|--------------|------------------|
-| Kadane's  | O(n)      | O(n)       | O(n)         | ✅ Confirmed O(n) |
+| Kadane's  | O(n)      | O(n)       | O(n)         | Confirmed O(n) |
 
 ### Key Observations
 - **Linear Scaling**: Time and operations grow proportionally with input size
