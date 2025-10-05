@@ -153,4 +153,3 @@ Professional commit history following feature-based workflow:
 - Performance metrics and benchmarking
 - CSV export for empirical analysis
 ```
-
